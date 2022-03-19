@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mouhamet99.github.io/csb-iszvle/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mouhamet99.github.io/csb-iszvle/static/js/main.84ac5b54.chunk.js",
+    "main.js.map": "https://mouhamet99.github.io/csb-iszvle/static/js/main.84ac5b54.chunk.js.map",
+    "runtime-main.js": "https://mouhamet99.github.io/csb-iszvle/static/js/runtime-main.9c47eac0.js",
+    "runtime-main.js.map": "https://mouhamet99.github.io/csb-iszvle/static/js/runtime-main.9c47eac0.js.map",
+    "static/js/2.a043480c.chunk.js": "https://mouhamet99.github.io/csb-iszvle/static/js/2.a043480c.chunk.js",
+    "static/js/2.a043480c.chunk.js.map": "https://mouhamet99.github.io/csb-iszvle/static/js/2.a043480c.chunk.js.map",
+    "index.html": "https://mouhamet99.github.io/csb-iszvle/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mouhamet99.github.io/csb-iszvle/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a043480c.chunk.js.LICENSE.txt": "https://mouhamet99.github.io/csb-iszvle/static/js/2.a043480c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c47eac0.js",
+    "static/js/2.a043480c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.84ac5b54.chunk.js"
+  ]
+}
